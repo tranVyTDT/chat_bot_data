@@ -1,0 +1,146 @@
+<topic=family>
+A:How many people are there in your family? --how_many
+B:There are 5 people in my family: my father, mother, brother, sister, and me.
+A:Does your family live in a house or an apartment? --yn
+B:We live in a house in the countryside.
+A:What does your father do? --what
+B:My father is a doctor. He works at the local hospital.
+A:How old is your mother? --how_adj <your mother><old><40 years old>
+B:She is 40 years old, 1 year younger than my father.
+A:Do you have any siblings? --yn What’s his/her name? --what <his/her><name><David/Mary>
+B:Yes, I do. I have 1 elder brother, David, and 1 younger sister, Mary.
+A:Are you the oldest amongst your brothers and sisters? --yn
+B:No, I’m not. I’m the second child in my family.
+A:What do your mother/father like? --what
+B:My father likes playing football and my mother likes cooking.
+A:Do your parents let you stay out late? --yn
+B:Of course not. They always ask me to get home before 10 pm each night.
+A:Do you stay with your parents? --yn
+B:Right now, no, but I used to.
+A:Does your family usually have dinner together? --yn
+B:Yes, we do. My mom always prepares delicious meals for us.
+<end=dialog>
+<topic=Enrolling a Child in a New School>
+<start=dialog>
+A: Did you just move into town? --yn
+B: I moved in almost a month ago.
+A: How many children do you have? --how_many
+B: I have one child.
+A: How old is your child? --how_adj <your_child><old><senven_years_old>
+B: She's seven years old.
+A: So she's a second grader.
+B: That's correct.
+A: I believe we do still have room for her.
+B: That's great news.
+A: Let's get started with all the paperwork.
+B: The sooner I get her enrolled the better.
+<end=dialog>
+<start=dialog>
+A: Are you new in town? --yn
+B: I've only been in town for about a month.
+A: How many kids do you have? --how_many
+B: Right now I just have one.
+A: How old? --how_adj <she><old><seven>
+B: She is seven.
+A: She should be in the second grade.
+B: Exactly.
+A: We have enough room for her.
+B: I'm glad to hear that.
+A: Let's begin filling out the paperwork.
+B: That would be great.
+<end=dialog>
+<topic=family>
+A:How many people are there in your family? --how_many
+B:There are 5 people in my family: my father, mother, brother, sister, and me.
+A:Does your family live in a house or an apartment? --yn
+B:We live in a house in the countryside.
+A:What does your father do? --what
+B:My father is a doctor. He works at the local hospital.
+A:How old is your mother? --how_adj <your mother><old><40 years old>
+B:She is 40 years old, 1 year younger than my father.
+A:Do you have any siblings? --yn What’s his/her name? --what <his/her><name><David/Mary>
+B:Yes, I do. I have 1 elder brother, David, and 1 younger sister, Mary.
+A:Are you the oldest amongst your brothers and sisters? --yn
+B:No, I’m not. I’m the second child in my family.
+A:What do your mother/father like? --what
+B:My father likes playing football and my mother likes cooking.
+A:Do your parents let you stay out late? --yn
+B:Of course not. They always ask me to get home before 10 pm each night.
+A:Do you stay with your parents? --yn
+B:Right now, no, but I used to.
+A:Does your family usually have dinner together? --yn
+B:Yes, we do. My mom always prepares delicious meals for us.
+<end=dialog>
+<topic=My Favorite Photographs (1)>
+<start=dialog>
+Susan: Who is she? --who
+Roger: She is my sister.
+Susan: What's her name? --what <her><name><Jennifer>
+Roger: Her name is Jennifer.
+Susan: Where is she in this photograph? --where
+Roger: She's in Toronto.
+Susan: What is that building behind her? --what
+Roger: She's standing in front of the CN Tower.
+<end=dialog>
+<topic=Is She Single?>
+<start=dialog>
+Lynn: Today is my cousin's birthday.
+Roger: What's your cousin's name? --what <your_cousin><name><Kathy>
+Lynn: Kathy. I'm going to her house after dinner.
+Roger: How old is she? --how_adj <she><old><twenty_four>
+Lynn: She's twenty four.
+Roger: Hmm. She's my age. Is she pretty? --yn
+Lynn: Yes, and she's very nice, too.
+Roger: Is she single? --yn
+Lynn: No, she's married and has two children.
+Roger: Oh that's too bad.
+Lynn: Not for her! He he he...
+<end=dialog>
+<topic=A Plane Reservation>
+<start=dialog>
+Henry: I'd like to reconfirm my plane reservation.
+Miss Lester: What flight are you taking? --what
+Henry: Flight 207.
+Miss Lester: And your name, please? --what <your><name><Henry_Chandler>
+Henry: Henry Chandler.
+Miss Lester: Yes, sir. You're booked on Flight 207. Please check in at the airport an hour before flight time.
+Henry: Thank you.
+<end=dialog>
+<topic=Buying a Present  In a Toy Shop>
+<start=dialog>
+Mrs Bays: Good morning. Perhaps you can advise me...
+Assistant: Yes, ma'am.
+Mrs Bays: I'm looking for a toy...for my niece.
+Assistant: Oh, yes...how old is she? --how_adj <she><old><senven_years_old>
+Mrs Bays: She'll be seven years old on Sunday.
+Assistant: Skateboards are still very popular.
+Mrs Bays: Hmm, I don't want her to hurt herself.
+Assistant: What about a Barbie Doll set? --how_about
+Mrs Bays: I don't think so. She has many Barbie Dolls. Have you got anything educational? -- You see she's a very intelligent girl.
+Assistant: I've got the perfect thing! A do it yourself kit where you can build your own Barbie Doll who rides a skateboard!
+<end=dialog>
+<topic=Short Answer>
+<start=dialog>
+Linda: Is Alice young or old? --yn <Alice><old><young>
+Glen: She is young.
+Linda: Is Bill tall or short? --yn
+Glen: He is short.
+Linda: Is Albert's apartment big or little? --selection
+Glen: It's small.
+Linda: Were the last examinations easy or difficult? --yn
+Glen: They were difficult.
+Linda: Is Julie married or single? --selection
+<end=dialog>
+<topic=Not So Young>
+<start=dialog>
+Keith: My son is graduating from high school today!
+Sally: And my daughter is graduating next year.
+Keith: How old is she? --how_adj <she><old><sixteen>
+Sally: She's sixteen.
+Keith: I remember when she was a baby.
+Sally: I know. We're getting old.
+Keith: Don't say that!
+Sally: Why not? --why It's true.
+Keith: No, it isn't. We were young when we got married.
+Sally: That's right, but we got married 25 years ago!
+<end=dialog>

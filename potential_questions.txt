@@ -1,0 +1,21 @@
+<topic=success>
+<start=dialog>
+A:What success did you achieve? --what
+B:I don’t know if it matters to someone or not, but passing the entrance exam to university was a huge success for me.
+A:When did you get that success? --when
+B:I got it 6 years ago. It’s been 2 years since I left university.
+A:Was there anyone who supported you? --yn
+B:My family supported me a lot. My mom prepared good meals for me while my dad helped me with hard math problems.
+A:Was it hard to get that success? --yn
+B:It was hard for me since I wasn’t good at academic subjects at all.
+A:What were some difficulties in achieving success? --what
+B:The period before the exam was quite stressful. I was so obsessed with it that I had a serious headache.
+A:How did you get it? --how_to
+B:I stuck to books day and night. I just stopped reading and writing when I felt I knew thoroughly about the matters.
+A:How did you feel when you were successful? --how_to *
+B:I was over the moon then. I was looking forward to campus life.
+A:How did your life change after that success? --how_to
+B:I had a chance to learn my favorite major at my desired university and then got a high-paying job in an active working environment.
+A:What is your key to success? --what
+B:I don’t particularly have any key to success. Just work hard and try your best, everything good will come to you.
+<end=dialog>
